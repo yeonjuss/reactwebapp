@@ -1,0 +1,14 @@
+/* 1) 요소 선택자 */
+h2{background-color: yellow; padding: 16px;}
+p{color: blue;}
+
+/* 2) [권장] 클래스 선택자 사용 */
+.container{
+    background-color: antiquewhite;
+    padding: 16px;
+}
+
+.container img{
+    width: 200px;
+    margin: 8px;
+}
